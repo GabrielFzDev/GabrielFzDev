@@ -6,8 +6,6 @@ I'm Python developer, and training my skils to be a Data Engineer!
 
 **About me**
 
-- 21 years old!
-
 - Python Developer
 
 - PL/SQL developer
