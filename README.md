@@ -2,14 +2,19 @@
 
 <br />
 
-I'm developer, and training my skils to be a Data Engineer!
+I'm Python developer, and training my skils to be a Data Engineer!
 
 **About me**
 
-- 💼 Python Developer
+- 21 years old!
 
-- ❤️ I love writing Django, JS and procedures with PL/SQL  
+- Python Developer
 
+- PL/SQL developer
+
+- In training Data Enginner
+
+- I love writing Django, JS, Python automations and procedures with PL/SQL
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFzDev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFzDev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
