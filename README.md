@@ -1,8 +1,8 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Gabriel. I code in Python!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><h2>Hello, I'm Gabriel</h2></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm developer, and training my skils to be a Data Engineer!
 
 **About me**
 
